@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img alt="Yuanshan Xu (徐元山) · Harbin Institute of Technology · Multimodal sensor simulation · Rust & Python · Tools for AI coding agents" src="assets/banner-light.png">
+  <img alt="Xu Yuanshan (徐元山) · Harbin Institute of Technology · Multimodal sensor simulation · Rust & Python · Tools for AI coding agents" src="assets/banner-light.png">
 </picture>
 
 Master's student at Harbin Institute of Technology, working on multimodal sensor simulation. I also build tools and plugins for AI coding agents such as Claude Code and DeepSeek Harness.
