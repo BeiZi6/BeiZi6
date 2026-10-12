@@ -2,4 +2,4 @@
 
 `$ whoami` Xu Yuanshan (徐元山), M.Eng. student at Harbin Institute of Technology. AI engineering and forward-deployed engineering: I ship LLM gateways, agent plugins and desktop apps end to end. Research: synthetic multimodal data (visible / IR / SAR) in UE5. Stack: Python, Rust, TypeScript.
 
-**Now:** [otty-rs](https://github.com/BeiZi6/otty-rs) — [引擎报事件，应用做决定](https://blog.xyucode.top/p/2026-10-06-otty-rs-怎么分层)
+**Now:** [otty-rs](https://github.com/BeiZi6/otty-rs), the Otty terminal rebuilt from scratch: a Rust engine (VT, PTY, fonts, rasteriser) behind an Electron frontend. 36 of 50 tracked capabilities done, 6 partial, 8 open, as of `41821f5` (2026-10-13). Design notes: [引擎报事件，应用做决定](https://blog.xyucode.top/p/2026-10-06-otty-rs-怎么分层)
